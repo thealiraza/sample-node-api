@@ -3,7 +3,7 @@ module.exports = {
         {
           '_id': '0',
           'name': {
-            'first': 'ali commiting',
+            'first': 'ali commiting 2',
             'last': 'Hayes'
           },
           'email': 'deidre.hayes@undefined.me',
